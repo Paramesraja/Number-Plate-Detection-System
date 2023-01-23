@@ -1,0 +1,11 @@
+dj-database-url
+dj-static
+Django
+docopt
+gitignore
+gunicorn
+pytz
+static3
+django_heroku
+opencv-python-headless
+numpy
